@@ -74,5 +74,5 @@ compatable version of DOOM on multiple platforms next year.
 
 Have fun.
 
-John Carmack
+    
 12-23-97
